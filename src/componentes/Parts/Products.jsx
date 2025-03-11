@@ -11,8 +11,8 @@ import productSeven from '../../assets/ProductSeven.jpg'
 import productEight from '../../assets/ProductEight.jpg'
 import productNine from '../../assets/productNine.jpg'
 import productTen from '../../assets/ProductTen.png'
-import productEleven from '../../assets/productEleven.png'
-import productTwelve from '../../assets/productTwelve.png'
+import productEleven from '../../assets/ProductEleven.png'
+import productTwelve from '../../assets/ProductTwelve.png'
 import AdFour from '../../assets/AdFour.png'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
